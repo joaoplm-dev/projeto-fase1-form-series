@@ -7,6 +7,6 @@ function Home() {
         <img src="https://i.redd.it/bti4zwzgziac1.jpeg" style={{ maxWidth: '50%', height: 'auto' }} />
      </div>
     );
-}z
+}
 
 export default Home;
