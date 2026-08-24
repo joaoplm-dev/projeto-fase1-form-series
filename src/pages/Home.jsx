@@ -4,7 +4,7 @@ function Home() {
         <h1>Página Inicial</h1>
         <h2>Bem-vindo ao projeto Formulário de séries!</h2>
         <p>Gerencie séries assistidas de uma forma fácil e intuitiva.</p>
-        <p></p>
+        <h1></h1>
         <img src="https://i.redd.it/bti4zwzgziac1.jpeg" style={{ maxWidth: '50%', height: 'auto' }} />
      </div>
     );
