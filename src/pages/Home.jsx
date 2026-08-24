@@ -6,7 +6,14 @@ function Home() {
         <p>Gerencie séries assistidas de uma forma fácil e intuitiva.</p>
         <p1></p1>
         <p1></p1>
-        <img src="https://i.redd.it/bti4zwzgziac1.jpeg"  style={{ maxWidth: '50%', height: 'auto', alignItems: 'center' }} />
+        <img src="https://i.redd.it/bti4zwzgziac1.jpeg"  
+        style={{ 
+            maxWidth: '40%', 
+            height: 'auto', 
+            display: 'block',
+            margin: '30px auto 0 auto',
+             }}
+           />
      </div>
     );
 }
