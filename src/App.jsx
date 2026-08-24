@@ -39,7 +39,7 @@ function App(){
     
     {pagina === 'home' && <Home />}
     {pagina === 'sobre' && <Sobre />}
-    {pagina === 'cadastrar' && <CadastroSerie onAdicionar={adicionarSerie}/>}
+    {pagina === 'cadastrar' && <CadastroSerie onAdicionar={adicionarSerie} series={series} />}
     {pagina === 'lista' && (
       <ListaSerie series={series} onExcluir={excluirSerie} onEditar={editarSerie}/>
 
